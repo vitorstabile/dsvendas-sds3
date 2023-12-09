@@ -5,9 +5,10 @@
       - Check the version with ```java --version```.
     - Install maven.
       - Check the version with ```mvn --version```.
-    - Install npm LTS.
-      - Open the terminal and install yarn ```npm install --global yarn```.
-      - Check the version with ```yarn --version```.
+    - Install node 14 LTS.
+	  - Check the version with ```node --version```.
+	    - Open the terminal and install yarn ```npm install --global yarn```.
+        - Check the version with ```yarn --version```.
 
   - Clone the project.
 
