@@ -20,7 +20,7 @@
 
   - Run the Frontend
     - Navigate to ```dsvendas-sds3\frontend```
-      - In terminal, make ```npm install```
-      - In terminal, make ```npm start```
+      - In terminal, make ```npm install``` or ```yarn install```
+      - In terminal, make ```npm start``` or ```yarn start```
         - In case of errors, make ```npm audit fix --force``` and after, make ```npm start```
       - The frontend application is runnin in ```http://localhost:3000/```
